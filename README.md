@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="DimaKhaledCV.pdf">
+  <a href="Dima_Khaled_CV.pdf">
     <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
